@@ -1,4 +1,4 @@
 # PageObjectModel
-This project is an automation pack 
+This project is an automation test suite. 
 Created using language C#
-Framework is specflow
+and Framework is specflow
